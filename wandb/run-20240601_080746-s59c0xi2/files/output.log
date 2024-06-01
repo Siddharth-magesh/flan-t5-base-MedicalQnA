@@ -1,0 +1,16 @@
+d:\newenv\lib\site-packages\torch\utils\checkpoint.py:464: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+{'loss': 2.9856, 'grad_norm': 0.24072080850601196, 'learning_rate': 1.8049731838127743e-05, 'epoch': 0.1}
+{'loss': 2.8826, 'grad_norm': 0.26523035764694214, 'learning_rate': 1.6099463676255485e-05, 'epoch': 0.2}
+{'loss': 2.8512, 'grad_norm': 0.37881624698638916, 'learning_rate': 1.4149195514383229e-05, 'epoch': 0.29}
+{'loss': 2.8111, 'grad_norm': 0.26791664958000183, 'learning_rate': 1.2198927352510972e-05, 'epoch': 0.39}
+d:\newenv\lib\site-packages\torch\utils\checkpoint.py:464: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+{'loss': 2.8021, 'grad_norm': 0.3864891827106476, 'learning_rate': 1.0248659190638714e-05, 'epoch': 0.49}
+{'loss': 2.7956, 'grad_norm': 0.36170417070388794, 'learning_rate': 8.298391028766456e-06, 'epoch': 0.59}
+{'loss': 2.7584, 'grad_norm': 0.33944785594940186, 'learning_rate': 6.348122866894198e-06, 'epoch': 0.68}
+{'loss': 2.7678, 'grad_norm': 0.36662620306015015, 'learning_rate': 4.397854705021941e-06, 'epoch': 0.78}
+{'loss': 2.7765, 'grad_norm': 0.3301321268081665, 'learning_rate': 2.4475865431496835e-06, 'epoch': 0.88}
+{'loss': 2.7634, 'grad_norm': 0.3458963632583618, 'learning_rate': 4.973183812774257e-07, 'epoch': 0.98}
+d:\newenv\lib\site-packages\torch\utils\checkpoint.py:464: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
